@@ -1,0 +1,13 @@
+{
+  "name": "saucelabs_users_account",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~4.0.0",
+    "morgan": "~1.0.0",
+    "body-parser": "~1.0.0",
+    "method-override": "~1.0.0"
+  },
+  "devDependencies": {
+    "gulp-html-replace": "^1.6.2"
+  }
+}
